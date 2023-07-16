@@ -1,4 +1,4 @@
-# Olá, eu sou a Camille
+# Cientista de Dados e Engenheira!
 *** 
 
 __Atualmente, estou fazendo Residência no SENAI Londrina, com foco em Inteligência Artificial.__ </br>
