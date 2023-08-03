@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camillecv&label=Profile%20views&color=0e75b6&style=flat" alt="camillecv" /> </p>
 
 ***
-Sou engenheira de formação, e cientista de paixão! <br>
+Sou engenheira de formação e cientista de paixão! <br>
 Busco estar sempre aprendendo e encontrei na Ciência de Dados uma forma de levantar hipóteses e testar teorias. <br>
 
 ***
