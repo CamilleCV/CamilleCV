@@ -16,19 +16,11 @@ __Intercâmbio:__ Ciência Sem Fronteiras | *18 meses na Arizona State Universit
 ### Formações em Ciência de Dados: <br>
 #### __Residência:__ Senai Londrina
 A especialização conta com 4 módulos de aulas, ministrados pelo *Advanced Institute for Artificial Intelligence - AI2* ([website](https://advancedinstitute.ai/)).
-Os módulos estudados foram:
-* **Introdução à Python e ao Sistema Linux**;
-* **Estatística**;
-* **Machine Learning**;
-* **Cloud**.
 
-#### Alura:
-Cursos, Formações e [Challenges](https://github.com/CamilleCV/Challenge-DataScience) realizados!
-Além dos estudos e projetos desenvolvidos com o SENAI, também estou estudando na **ALURA**, concluindo as seguintes formações:
-* **[Python para Data Science](https://cursos.alura.com.br/formacao-python-data-science):** <br>
-Total de 7 cursos, distribuídos em 70 horas.
-* **[Machine Learning](https://cursos.alura.com.br/formacao-machine-learning):** <br>
-Total de 8 cursos, distribuídos em 76 horas.
+#### Case de Aprendizado de Máquinas:
+Um case foi elaborado para prever a quantidade de planos nos próximos 6 meses, com base em um conjunto de dados públicos. O case teve duração de 24h, no qual foi necessário o tratamento dos dados, a separação dos dados em treinamento e teste (últimos seis meses), uma análise de predição e finalizar com um dashboard em Power BI. <br>
+É possível verificar o que foi realizado [aqui](https://github.com/CamilleCV/Case_Planos_Medicos).
+
 
 ***
 <h3 align="left">Contate-me:</h3>
