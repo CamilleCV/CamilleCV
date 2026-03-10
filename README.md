@@ -35,33 +35,29 @@ Python • LLMs • RAG • Dataiku • Machine Learning • AI Agents
 
 ---
 
-## Academic Background
-
-**Postgraduate Specialization:** Occupational Safety Engineering  
-*Federal University of Technology – Paraná (UTFPR)*  
-
-**Master's Degree:** Materials Science and Engineering  
-*Federal University of Technology – Paraná (UTFPR)*  
-
-**International Exchange Program:** Science Without Borders  
-*18 months at Arizona State University (USA)*  
-
----
-
 ## AI & Data Science Training
 
 > Many of my projects were developed in collaboration with industry partners and cannot be publicly shared due to confidentiality agreements. Selected public projects are available below.
 
-### AI & Data Science Residency — SENAI Londrina
+### [llm-retrieval-systems](https://github.com/CamilleCV/llm-retrieval-systems)
 
-This specialization program included four modules focused on **Artificial Intelligence and Machine Learning**, taught by the *Advanced Institute for Artificial Intelligence (AI2)*.
+This repository explores the integration between **Large Language Models (LLMs)** and structured data sources.  
+The goal of this project is to experiment with different approaches for querying, organizing, and interacting with data using LLM-powered systems.
 
-More information:  
-https://advancedinstitute.ai/
+The project focuses on building a framework that allows:
+
+- Storing and structuring data that can be consumed by LLM-based applications
+- Experimenting with database + LLM interaction workflows
+- Supporting applications such as **RAG pipelines, intelligent search, and AI-powered data retrieval**
+
+This repository is part of my exploration of **LLM applications, data engineering, and AI systems in production environments**.
+
+Many of the production systems I work on are developed within companies and cannot be publicly shared due to confidentiality agreements.  
+This repository contains experimental implementations and public examples inspired by those real-world use cases.
 
 ---
 
-### Machine Learning Case Study
+### [Machine Learning Study Case](https://github.com/CamilleCV/Case_Planos_Medico)
 
 A machine learning project was developed to predict the number of health insurance plans over the next six months using a public dataset.
 
@@ -71,9 +67,6 @@ The project included:
 • Train-test split using the last six months as the test dataset  
 • Predictive modeling  
 • Dashboard creation using **Power BI**
-
-You can explore the project here:  
-https://github.com/CamilleCV/Case_Planos_Medicos
 
 ---
 
